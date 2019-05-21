@@ -1,4 +1,4 @@
-# Java-PTM1-Final-Project
+# Search problems solving server
 BSc - Advanced Software Development 1 - Java
 
 The Goal - Creating the server side of a software that resolves the Fastest way through a Graph while keep using all the design patterns learned in the course.
